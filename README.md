@@ -44,4 +44,9 @@ The same data is on GitHub ([Maketocom/bitcoin-historical-returns](https://githu
 Hugging Face ([Maketocom/bitcoin-historical-returns](https://huggingface.co/datasets/Maketocom/bitcoin-historical-returns))
 and Kaggle ([maketocom/bitcoin-historical-returns](https://www.kaggle.com/datasets/maketocom/bitcoin-historical-returns)).
 
+
+## Permanent copy (DOI)
+
+Every three months a copy is archived at Zenodo, under one permanent DOI: [10.5281/zenodo.24523486](https://doi.org/10.5281/zenodo.24523486). Researchers can cite that DOI; it always leads to the latest version.
+
 This data is for learning and research. It is not financial advice.

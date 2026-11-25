@@ -8,6 +8,7 @@ authors:
 url: "https://maketo.com/bitcoin/historical-returns"
 repository-code: "https://github.com/Maketocom/bitcoin-historical-returns"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24523486"
 version: "2026-10-31"
 date-released: "2026-10-31"
 abstract: "Bitcoin daily prices since July 2010 and returns by month and year, from Maketo's daily price record."
