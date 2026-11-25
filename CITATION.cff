@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit Maketo with a link to https://maketo.com/bitcoin/historical-returns"
+type: dataset
+title: "Bitcoin Historical Prices and Returns by Month and Year (Maketo)"
+authors:
+  - name: "Maketo"
+    website: "https://maketo.com"
+url: "https://maketo.com/bitcoin/historical-returns"
+repository-code: "https://github.com/Maketocom/bitcoin-historical-returns"
+license: CC-BY-4.0
+version: "2026-10-31"
+date-released: "2026-10-31"
+abstract: "Bitcoin daily prices since July 2010 and returns by month and year, from Maketo's daily price record."
+keywords:
+  - "bitcoin"
+  - "btc"
+  - "cryptocurrency"
+  - "historical prices"
+  - "monthly returns"
+  - "price history"
+  - "ohlc"
